@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nome": "La Rustica",
+        "immagine": "https://lh5.googleusercontent.com/p/AF1QipOMrX9IqmBOO-FmJWrzCYr4xqwxwofF65S6cZZN=w650-h365-k-no",
+        "indirizzo": "Via Capo Rizzuto, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Italiana",
+        "descrizione": "Ristorante Pizzeria",
+        "telefono": "0962 793843",
+        "link": "https://www.facebook.com/larusticaisolacaporizzuto/?locale=it_IT",
+        "showLink": true
+    },
+    {
+        "id": 2,
+        "nome": "Borgo Salica",
+        "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/7b/70/borgo-salica.jpg?w=1200&h=-1&s=1",
+        "indirizzo": "Strada Provinciale 50 Contrada Vermica, 88841, Isola di Capo Rizzuto Italia",
+        "cucina": "Italiana, Mediterranea, Barbecue, Salutistica, Calabrese",
+        "descrizione": "Un ristorante con i migliori piatti della cucina calabrese.",
+        "telefono": "+39 388 244 1190",
+        "link": "https://www.facebook.com/BorgoSalica30/",
+        "showLink": true
+    },
+    {
+        "id": 3,
+        "nome": "La Vecchia Locanda",
+        "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0c/c1/41/caption.jpg?w=1200&h=-1&s=1",
+        "indirizzo": "Via Fontanella, 88841 Isola di Capo Rizzuto",
+        "cucina": "Calabrese",
+        "descrizione": "Ristorante pizzeria",
+        "telefono": "0962 791854",
+        "link": "https://sushinakazawa.com",
+        "showLink": false
+    }
+]
