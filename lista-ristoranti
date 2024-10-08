@@ -34,11 +34,11 @@
     },
     {
             "id": 4,
-            "nome": "oro nero",
+            "nome": "ORO NERO",
             "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/92/c0/00/caption.jpg?w=200&h=-1&s=1",
             "indirizzo": " Via Crotone, 88841 Isola di Capo Rizzuto KR",
-            "cucina": "Calabrese",
-            "descrizione": "Ristorante pizzeria",
+            "cucina": "Calabrese Gourmet",
+            "descrizione": "Ristorante Pizzeria",
             "telefono": "320 551 3565",
             "link": "https://sushinakazawa.com",
             "showLink": false
