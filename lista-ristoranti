@@ -41,6 +41,6 @@
             "descrizione": "Ristorante pizzeria",
             "telefono": "320 551 3565",
             "link": "https://sushinakazawa.com",
-            "showLink": true
+            "showLink": false
     }
 ]
