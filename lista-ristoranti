@@ -47,7 +47,7 @@
         "id": 5,
         "nome": "Ruris",
         "immagine": "https://admin.oraviaggiando.it/img-ristoranti/zoom_ristorante%20ruris%20calabria2-1994.jpg",
-        "indirizzo": "  Via Spiaggie Rosse, 88841 Isola di Capo Rizzuto KR",
+        "indirizzo": "Via Spiaggie Rosse, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Gourmet",
         "descrizione": "Ristorante di pesce",
         "telefono": "339 737 2712",
@@ -69,7 +69,7 @@
         "id": 7,
         "nome": "L'Ancora",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNI15Ep1UkMKJrTEYg_4DkKeuvLaTalK5dL8dQm=s680-w680-h510",
-        "indirizzo": " Via Faro, 88841 Capo Rizzuto KR",
+        "indirizzo": "Via Faro, 88841 Capo Rizzuto KR",
         "cucina": "Pesce e crudo",
         "descrizione": "Ristorante di pesce",
         "telefono": "0962 799253",
@@ -82,8 +82,8 @@
         "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/15/87/11/15/il-nostro-locale.jpg",
         "indirizzo": "Contrada Anastasi, Snc, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Specialità marinare",
-        "descrizione": "braceria e pizzeria",
-        "telefono": " 328 058 9096",
+        "descrizione": "Braceria e pizzeria",
+        "telefono": "328 058 9096",
         "link": "https://www.facebook.com/p/Ristorante-La-Rete-100078115952993/",
         "showLink": false
     },
@@ -91,7 +91,7 @@
         "id": 9,
         "nome": "Mare chiaro",
         "immagine": "https://www.marechiarocaporizzuto.it/wp-content/uploads/2021/05/IMG_0411-scaled.jpg",
-        "indirizzo": " Via Faro, 51, 88841 Capo Rizzuto KR",
+        "indirizzo": "Via Faro, 51, 88841 Capo Rizzuto KR",
         "cucina": "Ristorante Pizzeria e Pinseria",
         "descrizione": "Specialità marinare e crudo",
         "telefono": "339 112 6043",
@@ -102,12 +102,11 @@
         "id": 10,
         "nome": "Il volpone",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipPQ5gJ0Mt9n_76STbn4IpcgaayQNXJWajTqGYqB=s680-w680-h510",
-        "indirizzo": " Isola di Capo Rizzuto, SP45, 88841 Isola di Capo Rizzuto KR",
+        "indirizzo": "Isola di Capo Rizzuto, SP45, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
         "descrizione": "Ristorante pizzeria",
         "telefono": "333 389 9214",
         "link": "https://www.facebook.com/ilvolpone.agriturismoovile/?_rdr",
         "showLink": false
     }
-    
 ]
