@@ -108,5 +108,16 @@
         "telefono": "333 389 9214",
         "link": "https://www.facebook.com/ilvolpone.agriturismoovile/?_rdr",
         "showLink": false
+    },
+    {
+        "id": 11,
+        "nome": "Il Pagus",
+        "immagine": "https://media-cdn.tripadvisor.com/media/photo-p/12/91/52/63/20180407-120246-largejpg.jpg",
+        "indirizzo": " Località Ventarola, 88841 Ventrarola KR",
+        "cucina": "Specialità di carne",
+        "descrizione": "Ristorante",
+        "telefono": "348 474 8230",
+        "link": "https://pagusristorante.it/pagus-pasta-e-grill-crotone/?utm_source=GMB&utm_medium=web&utm_id=ristorante_crotona",
+        "showLink": false
     }
 ]
