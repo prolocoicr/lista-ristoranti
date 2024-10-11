@@ -174,5 +174,38 @@
         "telefono": "329 183 3275",
         "link": "https://www.facebook.com/acasainancia",
         "showLink": false
+    },
+    {
+        "id": 17,
+        "nome": "La Vecchia Torre",
+        "immagine": "https://jimdo-storage.freetls.fastly.net/image/25697119/09f5b9f9-843f-401b-97fd-4b30263bbea2.jpg?format=pjpg&quality=80,90&auto=webp&disable=upscale&width=1024&height=1024&trim=142,0,213,0",
+        "indirizzo": "   Via Isola di Tyris, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Pesce e crudo",
+        "descrizione": "Ristorante",
+        "telefono": "349 194 4712",
+        "link": "https://ristorante-la-vecchia-torre.jimdosite.com/",
+        "showLink": false
+    },
+    {
+        "id": 18,
+        "nome": "Tenuta Madre Terra",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipORk8RAI7sqrCuVgybYznXRu4Yf0AozTqz9Jqie=s680-w680-h510",
+        "indirizzo": "  Località Ovile Spinoso, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Calabrese e specialità di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "348 749 0304",
+        "link": "https://www.facebook.com/people/Tenuta-Madre-Terra/61565654532817/",
+        "showLink": false
+    },
+    {
+        "id": 19,
+        "nome": " 'Agape ",
+        "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/24/a2/82/f4/vista-mare-agape.jpg",
+        "indirizzo": "  Via Golfo di Squillace, Via Faro, snc, 88841 Capo Rizzuto KR",
+        "cucina": "Calabrese con specialità di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "389 623 8948",
+        "link": "https://www.facebook.com/p/Agape-Al-Faro-Ristorante-Pizzeria-100076210293177/",
+        "showLink": false
     }
 ]
