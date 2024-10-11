@@ -5,7 +5,7 @@
         "immagine": "https://lh5.googleusercontent.com/p/AF1QipOMrX9IqmBOO-FmJWrzCYr4xqwxwofF65S6cZZN=w650-h365-k-no",
         "indirizzo": "Via Capo Rizzuto, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Italiana",
-        "descrizione": "Ristorante Pizzeria",
+        "descrizione": "Ristorante e Pizzeria",
         "telefono": "0962 793843",
         "link": "https://www.facebook.com/larusticaisolacaporizzuto/?locale=it_IT",
         "showLink": true
@@ -27,7 +27,7 @@
         "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0c/c1/41/caption.jpg?w=1200&h=-1&s=1",
         "indirizzo": "Via Fontanella, 88841 Isola di Capo Rizzuto",
         "cucina": "Calabrese",
-        "descrizione": "Ristorante pizzeria",
+        "descrizione": "Ristorante e Pizzeria",
         "telefono": "0962 791854",
         "link": "https://sushinakazawa.com",
         "showLink": false
@@ -38,7 +38,7 @@
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipPdzsHAPV7JgvZV-EcHX8k-3RwJ6UazUHYC1ywT=s680-w680-h510",
         "indirizzo": "SP47, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
-        "descrizione": "Ristorante pizzeria",
+        "descrizione": "Ristorante e Pizzeria",
         "telefono": "0962 792106",
         "link": "https://www.facebook.com/hotelristorantelacampagnolacalabria/?locale=it_IT",
         "showLink": false
@@ -82,7 +82,7 @@
         "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/15/87/11/15/il-nostro-locale.jpg",
         "indirizzo": "Contrada Anastasi, Snc, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Specialità marinare",
-        "descrizione": "Braceria e pizzeria",
+        "descrizione": "Braceria e Pizzeria",
         "telefono": "328 058 9096",
         "link": "https://www.facebook.com/p/Ristorante-La-Rete-100078115952993/",
         "showLink": false
@@ -92,8 +92,8 @@
         "nome": "Mare chiaro",
         "immagine": "https://www.marechiarocaporizzuto.it/wp-content/uploads/2021/05/IMG_0411-scaled.jpg",
         "indirizzo": "Via Faro, 51, 88841 Capo Rizzuto KR",
-        "cucina": "Ristorante Pizzeria e Pinseria",
-        "descrizione": "Specialità marinare e crudo",
+        "cucina": "Specialità marinare e crudo",
+        "descrizione": "Ristorante Pizzeria e Pinseria",
         "telefono": "339 112 6043",
         "link": "https://marechiarocaporizzuto.it/",
         "showLink": false
@@ -104,7 +104,7 @@
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipPQ5gJ0Mt9n_76STbn4IpcgaayQNXJWajTqGYqB=s680-w680-h510",
         "indirizzo": "Isola di Capo Rizzuto, SP45, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
-        "descrizione": "Ristorante e pizzeria",
+        "descrizione": "Ristorante e Pizzeria",
         "telefono": "333 389 9214",
         "link": "https://www.facebook.com/ilvolpone.agriturismoovile/?_rdr",
         "showLink": false
@@ -206,6 +206,39 @@
         "descrizione": "Ristorante",
         "telefono": "389 623 8948",
         "link": "https://www.facebook.com/p/Agape-Al-Faro-Ristorante-Pizzeria-100076210293177/",
+        "showLink": false
+    },
+    {
+        "id": 20,
+        "nome": "Petra Nastase ",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipP2PIZEoa7rkpq9Zu6Al33nrqa3M2thWaFiF3V9=s680-w680-h510",
+        "indirizzo": "   Via Isola Capo Rizzuto, 88841 Crotone KR",
+        "cucina": "Pesce Fresco",
+        "descrizione": "Ristorante",
+        "telefono": "328 646 3625",
+        "link": "https://www.facebook.com/p/Sala-ricevimenti-Petra-Nastase-100076061191075/",
+        "showLink": false
+    },
+    {
+        "id": 21,
+        "nome": "La Pagoda",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipOPCHK7c0rJsqrcKzco5wVcVGOV0YIgQC8zSm4n=s680-w680-h510",
+        "indirizzo": "Contrada Fratte, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Italiana e Meditteranea",
+        "descrizione": "Ristorante e Pizzeria",
+        "telefono": "351 534 1173",
+        "link": "https://www.facebook.com/p/La-Pagoda-100028577907263/?locale=it_IT",
+        "showLink": false
+    },
+    {
+        "id": 22,
+        "nome": "Ristorante 106",
+        "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/27/36/bc/cf/fuori.jpg",
+        "indirizzo": "Isola di C.R, S.da Statale 106 Jonica, 88841 Campolongo KR",
+        "cucina": "Pesce  e crudo",
+        "descrizione": "Ristorante",
+        "telefono": "377 362 3762",
+        "link": "https://www.instagram.com/ristorante_106/",
         "showLink": false
     }
 ]
