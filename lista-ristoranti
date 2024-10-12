@@ -16,7 +16,11 @@
     {
         "id": 2,
         "nome": "Borgo Salica",
-        "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/7b/70/borgo-salica.jpg?w=1200&h=-1&s=1",
+        "immagine": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/7b/70/borgo-salica.jpg?w=1200&h=-1&s=1",
+            "https://ristorantevicari.it/wp-content/uploads/thumbnails/ristorante-e-braceria-borgo-salica.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiDeIB4BYMaJdz6GH0Fr9QmYj4gMAWCMTloL0OMEi25Xet6YPuP0M2Zq9RHhSd828ob4&usqp=CAU"
+        ],
         "indirizzo": "Strada Provinciale 50 Contrada Vermica, 88841, Isola di Capo Rizzuto Italia",
         "cucina": "Italiana, Mediterranea, Barbecue, Salutistica, Calabrese",
         "descrizione": "Un ristorante con i migliori piatti della cucina calabrese.",
@@ -27,7 +31,9 @@
     {
         "id": 3,
         "nome": "La Vecchia Locanda",
-        "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0c/c1/41/caption.jpg?w=1200&h=-1&s=1",
+        "immagine": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0c/c1/41/caption.jpg?w=1200&h=-1&s=1"
+        ],
         "indirizzo": "Via Fontanella, 88841 Isola di Capo Rizzuto",
         "cucina": "Calabrese",
         "descrizione": "Ristorante e Pizzeria",
@@ -38,7 +44,9 @@
     {
         "id": 4,
         "nome": "La Campagnola",
-        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPdzsHAPV7JgvZV-EcHX8k-3RwJ6UazUHYC1ywT=s680-w680-h510",
+        "immagine": [
+            "https://lh3.googleusercontent.com/p/AF1QipPdzsHAPV7JgvZV-EcHX8k-3RwJ6UazUHYC1ywT=s680-w680-h510"
+        ],
         "indirizzo": "SP47, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
         "descrizione": "Ristorante e Pizzeria",
@@ -49,7 +57,9 @@
     {
         "id": 5,
         "nome": "Ruris",
-        "immagine": "https://admin.oraviaggiando.it/img-ristoranti/zoom_ristorante%20ruris%20calabria2-1994.jpg",
+        "immagine": [
+            "https://admin.oraviaggiando.it/img-ristoranti/zoom_ristorante%20ruris%20calabria2-1994.jpg"
+        ],
         "indirizzo": "Via Spiaggie Rosse, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Gourmet",
         "descrizione": "Ristorante di pesce",
@@ -60,7 +70,9 @@
     {
         "id": 6,
         "nome": "L'isolitana",
-        "immagine": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/411318760_122116686500099772_5138733085266584601_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=fmkLoE3DM2kQ7kNvgHNno30&_nc_ht=scontent-fco2-1.xx&_nc_gid=AzUJHZR8lsdZeyoPFLzIHt_&oh=00_AYDfLoNMquc-qPv6Nx9y3Ya3_ztY6hYhmWUtLtvmOtb5Og&oe=670DD7DF",
+        "immagine": [
+            "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/411318760_122116686500099772_5138733085266584601_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=fmkLoE3DM2kQ7kNvgHNno30&_nc_ht=scontent-fco2-1.xx&_nc_gid=AzUJHZR8lsdZeyoPFLzIHt_&oh=00_AYDfLoNMquc-qPv6Nx9y3Ya3_ztY6hYhmWUtLtvmOtb5Og&oe=670DD7DF"
+        ],
         "indirizzo": "SP46, S.da Statale 106 Jonica, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
         "descrizione": "Paninoteca Bar Tavola Calda",
