@@ -11,7 +11,7 @@
         "descrizione": "Ristorante e Pizzeria",
         "telefono": "0962 793843",
         "link": "https://www.facebook.com/larusticaisolacaporizzuto/?locale=it_IT",
-        "showLink": false
+        "showLink": true
     },
     {
         "id": 2,
