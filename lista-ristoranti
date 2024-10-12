@@ -84,8 +84,8 @@
         "id": 7,
         "nome": "L'Ancora",
         "immagine": [
-            "https://lh3.googleusercontent.com/p/AF1QipNI15Ep1UkMKJrTEYg_4DkKeuvLaTalK5dL8dQm=s680-w680-h510"
-        ],
+                "https://lh3.googleusercontent.com/p/AF1QipNI15Ep1UkMKJrTEYg_4DkKeuvLaTalK5dL8dQm=s680-w680-h510"
+],
         "indirizzo": "Via Faro, 88841 Capo Rizzuto KR",
         "cucina": "Pesce e crudo",
         "descrizione": "Ristorante di pesce",
@@ -97,8 +97,8 @@
         "id": 8,
         "nome": "La Rete",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-s/15/87/11/15/il-nostro-locale.jpg"
-        ],
+"https://media-cdn.tripadvisor.com/media/photo-s/15/87/11/15/il-nostro-locale.jpg"
+],
         "indirizzo": "Contrada Anastasi, Snc, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Specialità marinare",
         "descrizione": "Braceria e Pizzeria",
@@ -110,8 +110,8 @@
         "id": 9,
         "nome": "Mare chiaro",
         "immagine": [
-            "https://www.marechiarocaporizzuto.it/wp-content/uploads/2021/05/IMG_0411-scaled.jpg"
-        ],
+"https://www.marechiarocaporizzuto.it/wp-content/uploads/2021/05/IMG_0411-scaled.jpg"
+],
         "indirizzo": "Via Faro, 51, 88841 Capo Rizzuto KR",
         "cucina": "Specialità marinare e crudo",
         "descrizione": "Ristorante Pizzeria e Pinseria",
@@ -123,8 +123,8 @@
         "id": 10,
         "nome": "Il volpone",
         "immagine": [
-            "https://lh3.googleusercontent.com/p/AF1QipPQ5gJ0Mt9n_76STbn4IpcgaayQNXJWajTqGYqB=s680-w680-h510"
-        ],
+"https://lh3.googleusercontent.com/p/AF1QipPQ5gJ0Mt9n_76STbn4IpcgaayQNXJWajTqGYqB=s680-w680-h510"
+],
         "indirizzo": "Isola di Capo Rizzuto, SP45, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Calabrese",
         "descrizione": "Ristorante e Pizzeria",
@@ -136,156 +136,156 @@
         "id": 11,
         "nome": "Il Pagus",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-p/12/91/52/63/20180407-120246-largejpg.jpg"
-        ],
+"https://media-cdn.tripadvisor.com/media/photo-p/12/91/52/63/20180407-120246-largejpg.jpg"
+],
         "indirizzo": "Località Ventarola, 88841 Ventrarola KR",
         "cucina": "Specialità di carne",
         "descrizione": "Ristorante",
         "telefono": "348 474 8230",
-        "link": "https://pagusristorante.it/",
+        "link": "https://pagusristorante.it/pagus-pasta-e-grill-crotone/?utm_source=GMB&utm_medium=web&utm_id=GMB",
         "showLink": false
     },
-    {
+     {
         "id": 12,
-        "nome": "La Chianina",
+        "nome": "La Quercia",
         "immagine": [
-            "https://www.carnezzerialachianina.it/wp-content/uploads/2019/09/lachianina-carnezzeria-1024x683.jpg"
-        ],
-        "indirizzo": "Via Calabrese, 88841 Isola di Capo Rizzuto KR",
-        "cucina": "Specialità di carne",
-        "descrizione": "Ristorante e Pizzeria",
-        "telefono": "349 274 0271",
-        "link": "https://www.facebook.com/lachianina/",
+"https://lh3.googleusercontent.com/p/AF1QipORJRJMVO-l83SYrtuqAQheJUNnAhwYv-JRLyjb=s680-w680-h510"
+],
+        "indirizzo": "Via Capo Rizzuto, 43, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Calabrese",
+        "descrizione": "Pizzeria e Trattoria",
+        "telefono": "0962 791778",
+        "link": "https://www.facebook.com/groups/151791397509",
         "showLink": false
     },
     {
         "id": 13,
-        "nome": "Ristorante Pizzeria Al Porticciolo",
+        "nome": "Il Casolare di nonna Maria",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/23/07/72/34/p2.jpg"
-        ],
-        "indirizzo": "Via Medaglie d'Oro, 88841 Capo Rizzuto KR",
-        "cucina": "Calabrese",
-        "descrizione": "Ristorante e Pizzeria",
-        "telefono": "0962 783691",
-        "link": "https://www.facebook.com/alporticciolo1/?locale=it_IT",
+"https://lh3.googleusercontent.com/p/AF1QipPFvm9HGPydTjJZAZikPpmSK5FtkwrC7FLsWdwl=s680-w680-h510"
+],
+        "indirizzo": "  Contrada Sovereto, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Specialità di pesce",
+        "descrizione": "Ristorante Pizzeria e Griglieria",
+        "telefono": " 320 149 2326",
+        "link": "https://www.facebook.com/casolarenonnamaria/?locale=it_IT",
         "showLink": false
     },
     {
         "id": 14,
-        "nome": "Ristorante La Lampara",
+        "nome": "OroNero",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/18/0f/83/7d/risto.jpg"
-        ],
-        "indirizzo": "Contrada Sant'Antonio, 88841 Isola di Capo Rizzuto KR",
-        "cucina": "Pesce",
-        "descrizione": "Ristorante di pesce",
-        "telefono": "0962 799522",
-        "link": "https://www.facebook.com/RistoranteLaLampara/",
+"https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/424889956_122093278982212185_7229879047725211735_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=skLYdVv5rhEQ7kNvgFvmn-B&_nc_ht=scontent-mxp1-1.xx&_nc_gid=A3Z6vYaHSo4Hg1OfjbVd0ag&oh=00_AYC7q08GD07DMOCTISkGeEXlK6vdi9uhz2xT4Q3h1VE4Iw&oe=670EB605"
+],
+        "indirizzo": " Via Crotone, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Specialità di pesce e crudo",
+        "descrizione": "Ristorante e Pizzeria",
+        "telefono": "320 551 3565",
+        "link": "https://www.facebook.com/oronero.ristorante.pizzeria/?_rdr",
         "showLink": false
     },
     {
         "id": 15,
-        "nome": "I Pizzaioli",
+        "nome": "La Napoleona",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/12/95/31/49/ristorante-i-pizzaioli.jpg"
-        ],
-        "indirizzo": "Via delle Breccie, 88841 Isola di Capo Rizzuto KR",
-        "cucina": "Pizzeria",
-        "descrizione": "Pizzeria",
-        "telefono": "0962 797240",
-        "link": "https://www.facebook.com/ristoranteipizzaioli/?locale=it_IT",
+"https://scontent-mxp1-1.xx.fbcdn.net/v/t1.6435-9/87007521_103371817925866_4704953088685899776_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cKSjaXzuNIUQ7kNvgFiJL3I&_nc_ht=scontent-mxp1-1.xx&_nc_gid=AGvhwlsJAPZSQhx3Ud04eFs&oh=00_AYAn-e_-g8SQzYtj-bYm_4WX1whF_PvOHzUxty6jtQHjbw&oe=67302E0A"
+],
+        "indirizzo": " Via Capo Rizzuto, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Piatti dell'antica tradizione",
+        "descrizione": "Agriturismo",
+        "telefono": " 348 225 3804",
+        "link": "https://www.facebook.com/photo/?fbid=103459231250458&set=a.103459261250455",
         "showLink": false
     },
     {
         "id": 16,
-        "nome": "Il giardino",
+        "nome": "A casa i Nancia",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/22/7c/39/c3/photo0jpg.jpg"
-        ],
-        "indirizzo": "Via Magellano, 88841 Isola di Capo Rizzuto KR",
-        "cucina": "Pizzeria",
-        "descrizione": "Pizzeria",
-        "telefono": "0962 781451",
-        "link": "https://www.facebook.com/ristoranteilgiardino/",
+"https://lh3.googleusercontent.com/p/AF1QipOXuk6JgQc5RZeqM8v6QA69vp9pHrYEZhUOplAR=s680-w680-h510-rw"
+],
+        "indirizzo": "  Via Faro, 58, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Calabrese",
+        "descrizione": "Trattoria",
+        "telefono": "329 183 3275",
+        "link": "https://www.facebook.com/acasainancia",
         "showLink": false
     },
     {
         "id": 17,
-        "nome": "Chalet Le Vele",
+        "nome": "La Vecchia Torre",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/25/91/06/07/chalet-le-vele.jpg"
-        ],
-        "indirizzo": "Via Eolo, 88841 Capo Rizzuto KR",
-        "cucina": "Pesce",
-        "descrizione": "Ristorante di pesce",
-        "telefono": "0962 798115",
-        "link": "https://www.facebook.com/chaletlevele/",
+"https://jimdo-storage.freetls.fastly.net/image/25697119/09f5b9f9-843f-401b-97fd-4b30263bbea2.jpg?format=pjpg&quality=80,90&auto=webp&disable=upscale&width=1024&height=1024&trim=142,0,213,0"
+],
+        "indirizzo": "   Via Isola di Tyris, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Pesce e crudo",
+        "descrizione": "Ristorante",
+        "telefono": "349 194 4712",
+        "link": "https://ristorante-la-vecchia-torre.jimdosite.com/",
         "showLink": false
     },
     {
         "id": 18,
-        "nome": "Ristorante La Botte",
+        "nome": "Tenuta Madre Terra",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/25/65/c1/c6/la-botte.jpg"
-        ],
-        "indirizzo": "Via Roma, 88841 Capo Rizzuto KR",
-        "cucina": "Calabrese",
+"https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/459987580_122104702004521817_5553706173293114123_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=qIRg1LWhT2kQ7kNvgHumq9t&_nc_ht=scontent-mxp1-1.xx&_nc_gid=Ak_Hs6PI1fbHZ6W5J9HQKij&oh=00_AYDUYN0Og0zPmk3_cImrzG37CDFjG9nDfEi3UWADdIdJ5w&oe=670EAD0D"
+],
+        "indirizzo": "  Località Ovile Spinoso, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Calabrese e specialità di pesce",
         "descrizione": "Ristorante",
-        "telefono": "0962 899914",
-        "link": "https://www.facebook.com/ristorante.labotte/?locale=it_IT",
+        "telefono": "348 749 0304",
+        "link": "https://www.facebook.com/people/Tenuta-Madre-Terra/61565654532817/",
         "showLink": false
     },
     {
         "id": 19,
-        "nome": "Ristorante da Giovanni",
+        "nome": " 'Agape ",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/2b/55/4b/a8/ristorante-giovanni.jpg"
-        ],
-        "indirizzo": "Via Francesco Cristoforo, 88841 Capo Rizzuto KR",
-        "cucina": "Italiano, Pizzeria",
-        "descrizione": "Ristorante e Pizzeria",
-        "telefono": "0962 795226",
-        "link": "https://www.facebook.com/ristorantegiovanni/",
+"https://media-cdn.tripadvisor.com/media/photo-s/24/a2/82/f4/vista-mare-agape.jpg"
+],
+        "indirizzo": "  Via Golfo di Squillace, Via Faro, snc, 88841 Capo Rizzuto KR",
+        "cucina": "Calabrese con specialità di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "389 623 8948",
+        "link": "https://www.facebook.com/p/Agape-Al-Faro-Ristorante-Pizzeria-100076210293177/",
         "showLink": false
     },
     {
         "id": 20,
-        "nome": "Ristorante Il Fagiano",
+        "nome": "Petra Nastase ",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/25/12/63/76/ristorante-il-fagiano.jpg"
-        ],
-        "indirizzo": "Via Sotto il Mare, 88841 Capo Rizzuto KR",
-        "cucina": "Calabrese, Pizzeria",
-        "descrizione": "Ristorante e Pizzeria",
-        "telefono": "0962 798222",
-        "link": "https://www.facebook.com/ristoranteilfagiano/",
+"https://lh3.googleusercontent.com/p/AF1QipP2PIZEoa7rkpq9Zu6Al33nrqa3M2thWaFiF3V9=s680-w680-h510"
+],
+        "indirizzo": "   Via Isola Capo Rizzuto, 88841 Crotone KR",
+        "cucina": "Pesce Fresco",
+        "descrizione": "Ristorante",
+        "telefono": "328 646 3625",
+        "link": "https://www.facebook.com/p/Sala-ricevimenti-Petra-Nastase-100076061191075/",
         "showLink": false
     },
     {
         "id": 21,
-        "nome": "Ristorante Le Tre Stelle",
+        "nome": "La Pagoda",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/2c/67/b3/81/ristorante-le-tre-stelle.jpg"
-        ],
-        "indirizzo": "Via della Libertà, 88841 Capo Rizzuto KR",
-        "cucina": "Pizzeria",
-        "descrizione": "Pizzeria",
-        "telefono": "0962 788900",
-        "link": "https://www.facebook.com/ristoranteletrestelle/",
+"https://lh3.googleusercontent.com/p/AF1QipOPCHK7c0rJsqrcKzco5wVcVGOV0YIgQC8zSm4n=s680-w680-h510"
+],
+        "indirizzo": "Contrada Fratte, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Italiana e Meditteranea",
+        "descrizione": "Ristorante e Pizzeria",
+        "telefono": "351 534 1173",
+        "link": "https://www.facebook.com/p/La-Pagoda-100028577907263/?locale=it_IT",
         "showLink": false
     },
     {
         "id": 22,
-        "nome": "Ristorante Il Cortile",
+        "nome": "Ristorante 106",
         "immagine": [
-            "https://media-cdn.tripadvisor.com/media/photo-o/18/0b/87/61/il-cortile.jpg"
-        ],
-        "indirizzo": "Via Giovanni Mariti, 88841 Capo Rizzuto KR",
-        "cucina": "Calabrese, Pizzeria",
-        "descrizione": "Ristorante e Pizzeria",
-        "telefono": "0962 798881",
-        "link": "https://www.facebook.com/ristoranteilcortile/",
+"https://media-cdn.tripadvisor.com/media/photo-s/27/36/bc/cf/fuori.jpg"
+],
+        "indirizzo": "Isola di C.R, S.da Statale 106 Jonica, 88841 Campolongo KR",
+        "cucina": "Pesce  e crudo",
+        "descrizione": "Ristorante",
+        "telefono": "377 362 3762",
+        "link": "https://www.instagram.com/ristorante_106/",
         "showLink": false
     }
 ]
