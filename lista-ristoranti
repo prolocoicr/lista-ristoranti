@@ -288,4 +288,134 @@
         "link": "https://www.instagram.com/ristorante_106/",
         "showLink": false
     }
+    {
+        "id": 23,
+        "nome": "La piccola lanterna",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipMSR2WDMkwshyagfIfWpNh-CjwUWa5xke8XLqeW=s680-w680-h510"
+],
+        "indirizzo": " Viale Antonio Gramsci, 5, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Gastronomia",
+        "descrizione": "Pizzeria Rosticceria e Gatronomia",
+        "telefono": "320 045 2004",
+        "link": "https://www.lapiccolalanterna.it/",
+        "showLink": false
+    }
+    {
+        "id": 24,
+        "nome": "Il Cavallino",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipPGKfhlEJvNyZiHjk8nxTpsB93Gu7pMpsnrKMji=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOKYzdQMOgi4okDZWZjsFpveyCoc-5z5gG01LEv=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNwKEHL20pVMtS_vke0rmDU71PxZWUpN1kymChX=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipO5jdUUmm-_-50E4InO_5W7t6L_0cZ8xbVFbXbt=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipP6ygcdwb6jjBBWT7Le2ingFNC2Mi1WweG29LzJ=s680-w680-h510"
+],
+        "indirizzo": "88841 Isola di Capo Rizzuto KR",
+        "cucina": "Cucina di pesce e carne",
+        "descrizione": "Ristorante e Pizzeria Sala ricevimenti",
+        "telefono": "0962 792538",
+        "link": "https://guias-viajes.com/italy/isola-di-capo-rizzuto/hotel-il-cavallino/",
+        "showLink": false
+    }
+    {
+        "id": 25,
+        "nome": "Il Marinaio",
+        "immagine": [
+"https://pizzeriasaronno.it/wp-content/uploads/thumbnails/ristotante-pizzeria-il-marinaio.jpg"
+],
+        "indirizzo": "Via Duomo, 88841 Le Castella KR",
+        "cucina": "Pesce  e Pizzeria",
+        "descrizione": "Ristorante e Pizzeria",
+        "telefono": "328 644 3353",
+        "link": "https://www.facebook.com/p/Il-Marinaio-Restaurant-e-Pizzeria-100064050882154/?locale=it_IT",
+        "showLink": false
+    }
+    {
+        "id": 26,
+        "nome": "Trattoria da Mario",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipN8E3dIB4r485A_Uyn9E2aTIi8ZaafTMEctJ62i=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOw0jW8LUAD9JNc5of-W9lk7M4o9B18DC_IQw0s=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOpGfWiHCEFnu_bNd3InHG4j-3PN80qFdyJc996=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipP0eN-MYIFUmtFIQORR73Ccs0Ki52RCcxZNeIzR=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOVfCaQ-28avmn4IYnc0guFJ6ZusHVruUiH1OQ=s680-w680-h510"
+],
+        "indirizzo": "Via Duomo, 87, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Piatti tpici e specialità marinare",
+        "descrizione": "Ristorante Pizzeria",
+        "telefono": "0962 795677",
+        "link": "https://www.facebook.com/p/Hostaria-Trattoria-da-Mario-100063830744019/",
+        "showLink": false
+    }
+    {
+        "id": 27,
+        "nome": "La locanda dei saraceni",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipN1Qrew2phu-Fdj_EPHjqlXPsLhBu5zJdQD_q-B=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipPzkf7ooHhaExtxQQKd9zqrro4PVSrUuGsxeK9S=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipMxm0Y5b8Qxas1HP0WeCNRRSGerdVlQIyPW1NKT=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipPIVDdgD-ARM4TvtIBkF5Cnj2RB-qRKYHORw1nv=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOlSbKiNFHQuXqIvFTEXp9Cf4-fjF2SBAIsfYfw=s680-w680-h510"
+],
+        "indirizzo":"Via Duomo, 88841 Le Castella KR",
+        "cucina": "Pizzeria",
+        "descrizione": "Antipasti calabresi",
+        "telefono": "327 684 1545",
+        "link": "https://www.facebook.com/lepalmedicarminebiondi/",
+        "showLink": false
+    }
+    {
+        "id": 28,
+        "nome": "RIstorante Pizzeria del Greco",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipP4z5jSXI2swd538vbrE5wjgVLc228KJI4nFO9z=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipN7KMk08bGTLoXpPAWdW9vCTC7rWbIQeIX2LbpH=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipPR9x4JGVGldgzw4gPsHyAEr2aRBaiou4mJkwOV=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipPkBRw6jDZwlSBpzzOHoToVT3KA1xvKoe8fkw_U=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNyn504GUmQrzfDs67ds3gherRjilhQyksUcSN6=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNtH3XkRnbnugCLzasLgZOayivw6wkzTmvrURff=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipMdRu3p0tBafCgnYTmowVeffkiznSSftl76Mt5M=s680-w680-h510"
+],
+        "indirizzo":" V. Ucci-Ali, 1, 88841 Le Castella KR",
+        "cucina": "Pizzeria",
+        "descrizione": "Antipasti calabresi",
+        "telefono": "347 666 8648",
+        "link": "https://www.facebook.com/100069024649722/mentions/?_rdr",
+        "showLink": false
+    }
+    {
+        "id": 29,
+        "nome": "Ristorante Poseidon km0",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipO-NXbzG36Y1AVYN-exlrCed_8RY2sym9szEZk2=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOB1N8q-resMGi2iKGv4thiAPdP0TNN94vA5ajj=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNyO5SnDqM3rl9iGbFko-5mwo718eeTID9CiBNL=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNkw0kCRN4il1XY-Hd4ZhIbY_BwMXxeRIA-JA5q=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOK_dG2Onr0ol8Ug6Vw2PXnRws4hGz1BQ3f6GnC=s680-w680-h510"
+],
+        "indirizzo":"Via del Porto, 88841 Le Castella KR",
+        "cucina": "Pesce e crudo",
+        "descrizione": "Ristorante",
+        "telefono": "328 803 0652",
+        "link": "https://www.facebook.com/RistorantePremiere/?locale=it_IT",
+        "showLink": false
+    }
+    {
+        "id": 30,
+        "nome": "Vista restaurant",
+        "immagine": [
+"https://lh3.googleusercontent.com/p/AF1QipNK-sQHzvXLyZoW93Jio54-nPSXzuUTuKSGUaIy=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNaVr3QPNJtWgGT85mFAZgJBOXFh9i35mrBKJ0=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipNCRvp9riKzfLandOlwy_s1xMlzkm5WcEpdyOdj=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipPTgg6GP0F8byahLLjkilukqrkSKJgg8F58eSYZ=s680-w680-h510",
+"https://lh3.googleusercontent.com/p/AF1QipOQmruDXZdSZ9imqv5kB_GcurARr8qec1PINwSE=s680-w680-h510"
+],
+        "indirizzo":"V. Ucci-Ali, 8, 88841 Le Castella KR",
+        "cucina": "Cucina di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "0962 172 3475",
+        "link": "https://www.instagram.com/vista.restaurant/",
+        "showLink": false
+    }
 ]
