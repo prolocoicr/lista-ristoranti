@@ -430,5 +430,31 @@
         "telefono": "329 276 9164",
         "link": "https://www.facebook.com/people/Trattoria-La-Bussola/100063837108905/",
         "showLink": false
+    },
+    {
+        "id": 34,
+        "nome": "Ristorante MicoMare",
+        "immagine": [
+          "https://media-cdn.tripadvisor.com/media/photo-s/05/f5/6a/7d/ristorante-micomare.jpg"
+        ],
+        "indirizzo": "Via Vittoria, 7, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Cucina di pesce",
+        "descrizione": "Ristorante",
+        "telefono": " 0962 795082",
+        "link": "https://www.ristorantemicomare.it/",
+        "showLink": false
+    },
+    {
+        "id": 35,
+        "nome": "Salotto Aragonese",
+        "immagine": [
+         "https://www.google.com/url?sa=i&url=https%3A%2F%2Faltraopinione.org%2Fristorante%2Fisola-di-capo-rizzuto%2Fristorante-l-aragonese%2F&psig=AOvVaw3ATb2wlwhW5EPaVFuAWCUR&ust=1729100254100000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMia7sf2kIkDFQAAAAAdAAAAABAZ"
+        ],
+        "indirizzo": "Via Duomo, 2, 88841 Le Castella KR",
+        "cucina": "Cucina di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "331 468 3049",
+        "link": "https://salottoaragonese.it/",
+        "showLink": false
     }
 ]
