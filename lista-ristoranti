@@ -456,5 +456,44 @@
         "telefono": "331 468 3049",
         "link": "https://salottoaragonese.it/",
         "showLink": false
+    },
+    {
+        "id": 36,
+        "nome": "Pizzeria Donna Carmela",
+        "immagine": [
+         "https://lh3.googleusercontent.com/p/AF1QipMX32pF5YTq-z9_pHh65Q6lT8cZ07j639j97dRH=s680-w680-h510"
+        ],
+        "indirizzo": "Via Rigon, 1a, 88841 Le Castella KR",
+        "cucina": "Dal 1976 Friggitoria e Pizzeria della Tradizione di Famiglia.",
+        "descrizione": "Pizzeria",
+        "telefono": "329 455 6989",
+        "link": "https://www.instagram.com/pizzeria_donnacarmela1976/",
+        "showLink": false
+    },
+    {
+        "id": 37,
+        "nome": "La Lampara",
+        "immagine": [
+         "https://lh3.googleusercontent.com/p/AF1QipPw5m1XnW5A3KsTrDq0aNqibAtYMqIINZq-PH5O=s680-w680-h510"
+        ],
+        "indirizzo": "Via Pizzicarola, 34, 88841 Le Castella KR",
+        "cucina": "Pizze al taglio Pizze rotonde e Rosticceria",
+        "descrizione": "Pokè Panini Pizzeria e Rosticceria",
+        "telefono": "0962 795105",
+        "link": "https://www.facebook.com/lalamparalecastella/?locale=it_IT",
+        "showLink": false
+    },
+    {
+        "id": 38,
+        "nome": "Friggitoria Tarantino",
+        "immagine": [
+         "https://lh3.googleusercontent.com/p/AF1QipNFRNiX3xKDcYp5xEkYM7RxE6MDonkA2bj3VIfk=s680-w680-h510"
+        ],
+        "indirizzo": "Via del Porto, 88841 Le Castella KR",
+        "cucina": "Fritti di pesce fresco",
+        "descrizione": "Friggitoria",
+        "telefono": "353 367 9680",
+        "link": "https://www.instagram.com/friggitoriatarantino/?igshid=mzrlodbinwflza%3D%3D",
+        "showLink": false
     }
 ]
