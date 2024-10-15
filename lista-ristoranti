@@ -391,4 +391,43 @@
         "link": "https://www.instagram.com/vista.restaurant/",
         "showLink": false
     }
+    {
+        "id": 31,
+        "nome": "Ristorante da Mimmo",
+        "immagine": [
+            "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/301124887_500342942095784_5390776812876491776_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DbMMmK_VJmwQ7kNvgEP0Pkt&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=AeARfRcwmQA0hzuN8dtD02e&oh=00_AYAhiEze9eS7hrMl6n3e9-hnsxMvpvr5li07u6gfoQufpA&oe=67145E8C"
+        ],
+        "indirizzo": "Via del Porto, 1, 88841 Le Castella KR",
+        "cucina": "Cucina di pesce offre anche piatti vegetariani",
+        "descrizione": "Ristorante",
+        "telefono": "324 834 4416",
+        "link": "https://ristorantedamimmo.le-castella.it/",
+        "showLink": false
+    }
+    {
+        "id": 32,
+        "nome": "Papavero giallo",
+        "immagine": [
+            "https://lh3.googleusercontent.com/p/AF1QipPTRPIqrt6oSvTcwUuwro-pZCpdYxv5x7ZesITg=s680-w680-h510"
+        ],
+        "indirizzo": "Via Fosso, 6, 88841 Le Castella KR",
+        "cucina": "Cucina di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "353 331 2840",
+        "link": "http://www.papaverogiallo.info/",
+        "showLink": false
+    }
+    {
+        "id": 33,
+        "nome": "Trattoria la bussola",
+        "immagine": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRM2q2vHvqYhmK_FGL2leckSOAoK2Ih5t_A&s"
+        ],
+        "indirizzo": " Via Annibale Barca, 88841 Le Castella KR",
+        "cucina": "Cucina di pesce",
+        "descrizione": "Ristorante",
+        "telefono": "329 276 9164",
+        "link": "https://www.facebook.com/people/Trattoria-La-Bussola/100063837108905/",
+        "showLink": false
+    }
 ]
