@@ -391,7 +391,7 @@
         "telefono": "0962 172 3475",
         "link": "https://www.instagram.com/vista.restaurant/",
         "showLink": false
-    }
+    },
     {
         "id": 31,
         "nome": "Ristorante da Mimmo",
@@ -404,7 +404,7 @@
         "telefono": "324 834 4416",
         "link": "https://ristorantedamimmo.le-castella.it/",
         "showLink": false
-    }
+    },
     {
         "id": 32,
         "nome": "Papavero giallo",
@@ -417,7 +417,7 @@
         "telefono": "353 331 2840",
         "link": "http://www.papaverogiallo.info/",
         "showLink": false
-    }
+    },
     {
         "id": 33,
         "nome": "Trattoria la bussola",
