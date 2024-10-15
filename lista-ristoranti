@@ -331,15 +331,16 @@
         "id": 26,
         "nome": "Trattoria da Mario",
         "immagine": [
-         "https://lh3.googleusercontent.com/p/AF1QipN8E3dIB4r485A_Uyn9E2aTIi8ZaafTMEctJ62i=s680-w680-h510"
-        ],
-        "indirizzo": "Via Duomo, 87, 88841 Isola di Capo Rizzuto KR",
-        "cucina": "Piatti tipici e specialità marinare",
-        "descrizione": "Ristorante Pizzeria",
-        "telefono": "0962 795677",
-        "link": "https://www.facebook.com/p/Hostaria-Trattoria-da-Mario-100063830744019/",
+        "https://lh3.googleusercontent.com/p/AF1QipN8E3dIB4r485A_Uyn9E2aTIi8ZaafTMEctJ62i=s680-w680-h510"
+          ],
+        "indirizzo": "Via San Rocco, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Cucina tipica calabrese",
+        "descrizione": "Trattoria",
+        "telefono": "0962 792106",
+        "link": "https://www.facebook.com/trattoriadamario/",
         "showLink": false
     },
+
     {
         "id": 27,
         "nome": "La locanda dei saraceni",
