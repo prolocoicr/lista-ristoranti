@@ -305,7 +305,7 @@
         "id": 24,
         "nome": "Il Cavallino",
         "immagine": [
-          "https://lh3.googleusercontent.com/p/AF1QipPGKfhlEJvNyZiHjk8nxTpsB93Gu7pMpsnrKMji=s680-w680-h510"
+           "https://lh3.googleusercontent.com/p/AF1QipPGKfhlEJvNyZiHjk8nxTpsB93Gu7pMpsnrKMji=s680-w680-h510"
         ],
         "indirizzo": "88841 Isola di Capo Rizzuto KR",
         "cucina": "Cucina di pesce e carne",
@@ -332,7 +332,7 @@
         "nome": "Trattoria da Mario",
         "immagine": [
         "https://lh3.googleusercontent.com/p/AF1QipN8E3dIB4r485A_Uyn9E2aTIi8ZaafTMEctJ62i=s680-w680-h510"
-          ],
+         ],
         "indirizzo": "Via San Rocco, 88841 Isola di Capo Rizzuto KR",
         "cucina": "Cucina tipica calabrese",
         "descrizione": "Trattoria",
