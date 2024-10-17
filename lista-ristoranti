@@ -303,22 +303,48 @@
     },
     {
         "id": 24,
-        "nome": "Il Cavallino",
+        "nome": "Pizzeria La Rucola",
         "immagine": [
-           "https://lh3.googleusercontent.com/p/AF1QipPGKfhlEJvNyZiHjk8nxTpsB93Gu7pMpsnrKMji=s680-w680-h510"
+            "https://lh3.googleusercontent.com/p/AF1QipMSR2WDMkwshyagfIfWpNh-CjwUWa5xke8XLqeW=s680-w680-h510"
         ],
-        "indirizzo": "88841 Isola di Capo Rizzuto KR",
-        "cucina": "Cucina di pesce e carne",
-        "descrizione": "Ristorante e Pizzeria Sala ricevimenti",
-        "telefono": "0962 792538",
-        "link": "https://guias-viajes.com/italy/isola-di-capo-rizzuto/hotel-il-cavallino/",
+        "indirizzo": "Via Annunziata, 20, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Pizza al taglio",
+        "descrizione": "Pizzeria Paninoteca e Rosticceria ",
+        "telefono": "327 453 9229",
+        "link": "",
         "showLink": false
     },
     {
         "id": 25,
+        "nome": "The Grandfather Pub",
+        "immagine": [
+           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtlOPwI9es4_H9EYtgGFOXRt7aKJr2YJAh2g&s"
+        ],
+        "indirizzo": " Via degli Apostoli, 1, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Offre una cucina tipica di un pub, con piatti che spaziano dalla tradizione italiana a specialità internazionali",
+        "descrizione": "Pub",
+        "telefono": "327 682 0846",
+        "link": "https://www.facebook.com/people/The-Grandfather-Pub/61560907280289/",
+        "showLink": false
+    },
+    {
+        "id": 26,
+        "nome": "Pizzeria la tegola",
+        "immagine": [
+           ""
+        ],
+        "indirizzo": " Via Crotone, 54, 88841 Isola di Capo Rizzuto KR",
+        "cucina": "Offre una cucina tipica di un pub, con piatti che spaziano dalla tradizione italiana a specialità internazionali",
+        "descrizione": "Pizzeria ",
+        "telefono": "338 746 7972",
+        "link": "",
+        "showLink": false
+    },
+    {
+        "id": 27,
         "nome": "Il Marinaio",
         "immagine": [
-            "https://pizzeriasaronno.it/wp-content/uploads/thumbnails/ristotante-pizzeria-il-marinaio.jpg"
+        "https://pizzeriasaronno.it/wp-content/uploads/thumbnails/ristotante-pizzeria-il-marinaio.jpg"
         ],
         "indirizzo": "Via Duomo, 88841 Le Castella KR",
         "cucina": "Pesce e Pizzeria",
@@ -328,7 +354,7 @@
         "showLink": false
     },
     {
-        "id": 26,
+        "id": 28,
         "nome": "Trattoria da Mario",
         "immagine": [
         "https://lh3.googleusercontent.com/p/AF1QipN8E3dIB4r485A_Uyn9E2aTIi8ZaafTMEctJ62i=s680-w680-h510"
@@ -342,7 +368,7 @@
     },
 
     {
-        "id": 27,
+        "id": 29,
         "nome": "La locanda dei saraceni",
         "immagine": [
             "https://lh3.googleusercontent.com/p/AF1QipN1Qrew2phu-Fdj_EPHjqlXPsLhBu5zJdQD_q-B=s680-w680-h510"
@@ -355,7 +381,7 @@
         "showLink": false
     },
     {
-        "id": 28,
+        "id": 30,
         "nome": "RIstorante Pizzeria del Greco",
         "immagine": [
         "https://lh3.googleusercontent.com/p/AF1QipP4z5jSXI2swd538vbrE5wjgVLc228KJI4nFO9z=s680-w680-h510"
@@ -367,7 +393,7 @@
         "link": "https://www.facebook.com/100"
     },
     {
-        "id": 29,
+        "id": 31,
         "nome": "Ristorante Poseidon km0",
         "immagine": [
             "https://lh3.googleusercontent.com/p/AF1QipO-NXbzG36Y1AVYN-exlrCed_8RY2sym9szEZk2=s680-w680-h510"
@@ -380,7 +406,7 @@
         "showLink": false
     },
     {
-        "id": 30,
+        "id": 32,
         "nome": "Vista restaurant",
         "immagine": [
             "https://lh3.googleusercontent.com/p/AF1QipNK-sQHzvXLyZoW93Jio54-nPSXzuUTuKSGUaIy=s680-w680-h510"
@@ -393,7 +419,7 @@
         "showLink": false
     },
     {
-        "id": 31,
+        "id": 33,
         "nome": "Ristorante da Mimmo",
         "immagine": [
             "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/301124887_500342942095784_5390776812876491776_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DbMMmK_VJmwQ7kNvgEP0Pkt&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=AeARfRcwmQA0hzuN8dtD02e&oh=00_AYAhiEze9eS7hrMl6n3e9-hnsxMvpvr5li07u6gfoQufpA&oe=67145E8C"
@@ -406,7 +432,7 @@
         "showLink": false
     },
     {
-        "id": 32,
+        "id": 34,
         "nome": "Papavero giallo",
         "immagine": [
             "https://lh3.googleusercontent.com/p/AF1QipPTRPIqrt6oSvTcwUuwro-pZCpdYxv5x7ZesITg=s680-w680-h510"
@@ -419,7 +445,7 @@
         "showLink": false
     },
     {
-        "id": 33,
+        "id": 35,
         "nome": "Trattoria la bussola",
         "immagine": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRM2q2vHvqYhmK_FGL2leckSOAoK2Ih5t_A&s"
@@ -432,7 +458,7 @@
         "showLink": false
     },
     {
-        "id": 34,
+        "id": 36,
         "nome": "Ristorante MicoMare",
         "immagine": [
           "https://media-cdn.tripadvisor.com/media/photo-s/05/f5/6a/7d/ristorante-micomare.jpg"
@@ -445,7 +471,7 @@
         "showLink": false
     },
     {
-        "id": 35,
+        "id": 37,
         "nome": "Salotto Aragonese",
         "immagine": [
          "https://lh3.googleusercontent.com/p/AF1QipPFRZaPjE7qnuRNZo17l_AJKuDDR6SQYSYK2vle=s680-w680-h510-rw"
@@ -458,7 +484,7 @@
         "showLink": false
     },
     {
-        "id": 36,
+        "id": 38,
         "nome": "Pizzeria Donna Carmela",
         "immagine": [
          "https://lh3.googleusercontent.com/p/AF1QipMX32pF5YTq-z9_pHh65Q6lT8cZ07j639j97dRH=s680-w680-h510"
@@ -471,7 +497,7 @@
         "showLink": false
     },
     {
-        "id": 37,
+        "id": 39,
         "nome": "La Lampara",
         "immagine": [
          "https://lh3.googleusercontent.com/p/AF1QipPw5m1XnW5A3KsTrDq0aNqibAtYMqIINZq-PH5O=s680-w680-h510"
@@ -484,7 +510,7 @@
         "showLink": false
     },
     {
-        "id": 38,
+        "id": 40,
         "nome": "Friggitoria Tarantino",
         "immagine": [
          "https://lh3.googleusercontent.com/p/AF1QipNFRNiX3xKDcYp5xEkYM7RxE6MDonkA2bj3VIfk=s680-w680-h510"
