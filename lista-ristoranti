@@ -563,15 +563,15 @@
     },
     {
         "id": 44,
-        "nome": "Tabù Food&Lounge",
+        "nome": "Paninoteca il cammello",
         "immagine": [
-         "https://lh3.googleusercontent.com/p/AF1QipPVmNTJ3rlla6OD9ycOa4WuvhJxhzook71jB0zB=s680-w680-h510"
+         "https://lh3.googleusercontent.com/p/AF1QipPgMVsU-yn5E4xb7e6AqStIosi8PHRWwnnqz-iA=s680-w680-h510"
         ],
-        "indirizzo": " SP43, 88841 Le Castella KR",
-        "cucina": "offre una cucina che combina sapori tradizionali calabresi con un tocco moderno e creativo",
-        "descrizione": "Ristorante Pizzeria",
-        "telefono": "380 746 5944",
-        "link": "https://www.facebook.com/tabufoodandlouge/",
+        "indirizzo": " Via Duomo, 44, 88841 Le Castella KR",
+        "cucina": "Sapori locali",
+        "descrizione": "Paninoteca",
+        "telefono": "389 585 0689",
+        "link": "https://www.facebook.com/p/paninoteca-il-cammello-100063630593361/?_rdr",
         "showLink": false
     }
 ]
